@@ -1,0 +1,10 @@
+{
+    "suggest": {
+        "product_name" : {
+            "prefix" : "Whirlpool", 
+            "completion" : { 
+                "field" : "name.completion"
+            }
+        }
+    }
+}
